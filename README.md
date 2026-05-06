@@ -2,7 +2,7 @@
 
 A Python-based data analysis project that scrapes, analyzes, and visualizes remote job market trends in real-time.
 
-![Dashboard Preview](dashboard_preview.png)
+📊 [View Dashboard Preview (PDF)](dashboard_preview.pdf)
 
 ## 📊 Features
 
